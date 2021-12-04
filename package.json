@@ -1,0 +1,24 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prakhar-Bhalla/booksAndAuthor.git"
+  },
+  "keywords": [],
+  "author": "Prakhar Bhalla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prakhar-Bhalla/booksAndAuthor/issues"
+  },
+  "homepage": "https://github.com/Prakhar-Bhalla/booksAndAuthor#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.14"
+  }
+}
